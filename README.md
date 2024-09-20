@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Govind Mohan Shah 👋</h2>
+<h2 align="center">Hi there, I'm Govind 👋</h2>
 <img src="https://user-images.githubusercontent.com/77008381/145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govindmohan0&label=Profile%20views&color=0e75b6&style=flat" alt="govindmohan0" /> </p>
